@@ -1,5 +1,5 @@
 def div(a, b):
-    if b = 0:
+    if b == 0:
        none
-    else
+    else:
         return a/b
